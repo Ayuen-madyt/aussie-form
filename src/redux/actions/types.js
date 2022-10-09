@@ -1,0 +1,24 @@
+// types for perosnalinfo
+export const BROKER = "BROKER";
+export const PERSONAL = "PERSONAL";
+export const RESIDENTIAL_ADDRESS = "RESIDENTIAL_ADDRESS";
+
+// types for assets
+export const PROPERTIES_OWNED = "PROPERTIES_OWNED";
+export const SAVINGS_ACCOUNT = "SAVINGS_ACCOUNT";
+export const MOTOR_VEHICLES = "MOTOR_VEHICLES";
+export const SUPERANNUATION = "SUPERANNUATION";
+export const HOUSEHOLD_ITEMS = "HOUSEHOLD_ITEMS";
+export const OTHER_ASSETS = "OTHER_ASSETS";
+export const LIABILITIES = "LIABILITIES";
+export const OTHER_LIABILITIES = "OTHER_LIABILITIES";
+export const CREDIT_CARDS = "CREDIT_CARDS";
+
+// types for exmployment
+export const EMPLOYMENT = "EMPLOYMENT";
+
+// types for expenses
+export const COMMENTARY = "COMMENTARY";
+export const MONTHLY_LIVING_EXPENSES_BASIC = "MONTHLY_LIVING_EXPENSES_BASIC";
+export const MONTHLY_LIVING_EXPENSES_RECURRING_FIXED =
+  "MONTHLY_LIVING_EXPENSES_RECURRING_FIXED";
